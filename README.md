@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Constant10fps
+- 👀 I’m interested in App Creation and funny cat videos
+- 🌱 I’m currently learning Python
+- 📫 How to reach me - email: k.kozlov@alg59.ru
