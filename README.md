@@ -9,8 +9,8 @@
 - [Deno Fresh](fresh.deno.dev) for websites
 - [Astro](astro.build) for websites (occasionally)
 ## Fwiends :D
-- [Alexey](github.com/mckoda09)
-- [tapnisu](github.com/tapnisu) (sorry for that fork)
+- [Alexey](https://github.com/mckoda09)
+- [tapnisu](https://github.com/tapnisu) (sorry for that fork)
 - some other people i worked with
 
 Have fun with the cringe I built, I guess
