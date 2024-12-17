@@ -12,5 +12,7 @@
 - [Alexey](https://github.com/mckoda09)
 - [tapnisu](https://github.com/tapnisu) (sorry for that fork)
 - some other people i worked with
+## Projects
+- [Duty Bot](https://github.com/Constant10fps/duty-bot) - in use at my class
 
 Have fun with the cringe I built, I guess
