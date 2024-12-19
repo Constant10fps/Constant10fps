@@ -14,5 +14,6 @@
 - some other people i worked with
 ## Projects
 - [Duty Bot](https://github.com/Constant10fps/duty-bot) - in use at my class
+- [My Website](https://constant0fps-site.deno.dev) - in development
 
 Have fun with the cringe I built, I guess
